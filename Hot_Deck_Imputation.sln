@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veri_hot_deck_imputation", "D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\veri_hot_deck_imputation\veri_hot_deck_imputation\veri_hot_deck_imputation.csproj", "{74FB0CB5-167D-4FD3-853A-C1A3D5FFE2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FB0CB5-167D-4FD3-853A-C1A3D5FFE2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FB0CB5-167D-4FD3-853A-C1A3D5FFE2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FB0CB5-167D-4FD3-853A-C1A3D5FFE2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FB0CB5-167D-4FD3-853A-C1A3D5FFE2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
