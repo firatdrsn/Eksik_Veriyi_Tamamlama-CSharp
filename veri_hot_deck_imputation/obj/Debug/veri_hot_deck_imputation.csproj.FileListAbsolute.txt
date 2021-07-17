@@ -1,0 +1,22 @@
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.exe
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.pdb
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.exe
+c:\users\pc\documents\visual studio 2012\Projects\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.pdb
+C:\Users\pc\Desktop\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.exe.config
+C:\Users\pc\Desktop\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.exe
+C:\Users\pc\Desktop\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.pdb
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.exe.config
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.exe
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\bin\Debug\veri_hot_deck_imputation.pdb
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.csproj.AssemblyReference.cache
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.Form1.resources
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.Properties.Resources.resources
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.csproj.GenerateResource.cache
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.csproj.CoreCompileInputs.cache
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.exe
+D:\Ders Notları\NOTLAR\veri_madenciliği_değiştirldi\veri_hot_deck_imputation\veri_hot_deck_imputation\obj\Debug\veri_hot_deck_imputation.pdb
